@@ -33,7 +33,7 @@ const Product = () => {
             </div>
             <div className="flex items-center justify-center w-full lg:w-1/2">
                 <div className="lg:max-w-2xl mb-8">
-                    <h2 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
+                    <h2 className="text-4xl font-bold leading-snug mt-4 lg:mt-0 tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
                     Preciosa Diamond Gaseificada.
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
@@ -119,7 +119,7 @@ const Product = () => {
             </div>
             <div className="flex items-center justify-center w-full lg:w-1/2">
                 <div className="lg:max-w-2xl mb-8">
-                    <h2 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
+                    <h2 className="text-4xl font-bold leading-snug mt-4 lg:mt-0 tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
                     Preciosa Gaseificada
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
@@ -209,7 +209,7 @@ const Product = () => {
             </div>
             <div className="flex items-center justify-center w-full lg:w-1/2">
                 <div className="lg:max-w-2xl mb-8">
-                    <h2 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
+                    <h2 className="text-4xl font-bold leading-snug mt-4 lg:mt-0 tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
                     Preciosa Gaseificada
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
@@ -299,7 +299,7 @@ const Product = () => {
             </div>
             <div className="flex items-center w-full lg:w-1/2 lg:p-20">
                 <div className="lg:max-w-2xl mb-8">
-                    <h2 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
+                    <h2 className="text-4xl font-bold leading-snug mt-4 lg:mt-0 tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
                     Preciosa Copo
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
