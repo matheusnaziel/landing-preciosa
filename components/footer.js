@@ -20,7 +20,7 @@ export default function Footer() {
               {" "}
               <Link href="/" className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                     <Image
-                      src="/img/logo.png"
+                      src="/img/logo1.png"
                       alt="N"
                       width="80"
                       height="80"
