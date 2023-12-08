@@ -73,21 +73,20 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
+        <div className="flex flex-col items-center justify-center mt-10 text-sm text-center text-gray-600 dark:text-gray-400">
           Copyright © {new Date().getFullYear()}.{" "}
           <a
             href="https://vertice.agency"
             target="_blank"
             rel="noopener"
-            className="flex items-center justify-center text-center">
+            className="flex items-center justify-center">
             <Image
               src="/img/logo-vertice.svg"
               alt="Powered by Vértice"
               width="60"
               height="60"
             />
-          </a>
-             
+          </a>      
         </div>
       </Container>
       {/* Do not remove this */}
