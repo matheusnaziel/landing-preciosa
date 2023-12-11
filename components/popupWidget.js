@@ -9,8 +9,9 @@ const PopupWidget = () => {
   const message = "Olá, gostaria de saber mais informações.";
 
   // URL codificada
-  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
-
+  // const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+  const whatsappUrl = `wa.link/3tyntl`;
+  
   return (
     <div>
       <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="fixed z-40 flex items-center justify-center transition duration-300 bg-blue-600 rounded-full shadow-lg right-5 bottom-5 w-14 h-14 focus:outline-none hover:bg-blue-900 focus:bg-blue-600 ease">
