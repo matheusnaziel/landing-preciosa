@@ -29,7 +29,7 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="Copo Preciosa 200ml"
                     loading="eager"
                     placeholder="blur"
                     />
@@ -115,7 +115,7 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="Garrafa Preciosa Diamond 330ml"
                     loading="eager"
                     placeholder="blur"
                     />
@@ -205,7 +205,7 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="Garrafa Preciosa Diamond Gaseificada 330ml"
                     loading="eager"
                     placeholder="blur"
                     />
@@ -291,7 +291,7 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="Garrafa água preciosa 510ml"
                     loading="eager"
                     placeholder="blur"
                     />
@@ -390,7 +390,7 @@ const Product = () => {
             <div className="flex items-center justify-center w-full lg:w-1/2">
                 <div className="lg:max-w-2xl mb-8">
                     <h2 className="text-4xl font-bold leading-snug mt-4 lg:mt-0 tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
-                    Preciosa Gaseificada 510ml
+                    Preciosa Gaseificada 500ml
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
                     Nossa água chega até você em embalagens 100% recicladas, sem deixar rastros no planeta. Beba o futuro!
@@ -566,7 +566,7 @@ const Product = () => {
             <div className="flex items-center justify-center w-full lg:w-1/2">
                 <div className="lg:max-w-2xl mb-8">
                     <h2 className="text-4xl font-bold leading-snug mt-4 lg:mt-0 tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-3xl xl:leading-tight dark:text-white">
-                    Preciosa Gaseificada 1.5L
+                    Preciosa Gaseificada 1.250L
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
                         Gaseificada enquanto vai para a garrafa, a refrescância já começa ao ouvir o “tsssss”.
