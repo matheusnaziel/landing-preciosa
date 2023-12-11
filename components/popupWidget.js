@@ -10,7 +10,7 @@ const PopupWidget = () => {
 
   // URL codificada
   // const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
-  const whatsappUrl = `https://www.wa.link/3tyntl`;
+  const whatsappUrl = `https://wa.me/5521991221552`;
   
   return (
     <div>
