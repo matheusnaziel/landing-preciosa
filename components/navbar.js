@@ -59,7 +59,7 @@ const Navbar = () => {
                           {item}
                       </Link>
                     ))}
-                    <Link href="wa.link/3tyntl" className="w-full px-6 py-2 mt-3 text-center text-white bg-blue-600 rounded-md lg:ml-5">         
+                    <Link href="https://www.wa.link/3tyntl" className="w-full px-6 py-2 mt-3 text-center text-white bg-blue-600 rounded-md lg:ml-5">         
                         Whatsapp
                     </Link>
                   </>
@@ -83,7 +83,7 @@ const Navbar = () => {
         </div>
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <Link href="wa.link/3tyntl" className="px-6 py-2 text-white bg-blue-600 rounded-md md:ml-5">
+          <Link href="https://www.wa.link/3tyntl" className="px-6 py-2 text-white bg-blue-600 rounded-md md:ml-5">
               Whatsapp
           </Link>
 
