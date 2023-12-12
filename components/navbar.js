@@ -54,11 +54,20 @@ const Navbar = () => {
 
                 <Disclosure.Panel className="flex flex-wrap w-full my-5 lg:hidden">
                   <>
-                    {navigation.map((item, index) => (
-                      <Link key={index} href="/" className="w-full px-4 py-2 -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                    {/* {navigation.map((item, index) => (
+                      <Link key={index} href="/" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
                           {item}
                       </Link>
-                    ))}
+                    ))} */}
+                    <Link href="/" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                        Home
+                    </Link>
+                    <Link href="/#produtos" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                        Produtos
+                    </Link>
+                    <Link href="/#contato" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                        Contato
+                    </Link>
                     <Link href="https://wa.me/5521991221552" className="w-full px-6 py-2 mt-3 text-center text-white bg-blue-600 rounded-md lg:ml-5">         
                         Whatsapp
                     </Link>
@@ -72,13 +81,21 @@ const Navbar = () => {
         {/* menu  */}
         <div className="hidden text-center lg:flex lg:items-center">
           <ul className="items-center justify-end flex-1 pt-6 list-none lg:pt-0 lg:flex">
-            {navigation.map((menu, index) => (
-              <li className="mr-3 nav__item" key={index}>
-                <Link href="/" className="inline-block px-4 py-2 text-lg text-gray-500 no-underline rounded-md dark:text-gray-200 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-gray-800">
-                    {menu}
-                </Link>
-              </li>
-            ))}
+            <li className="mr-3 nav__item">
+              <Link href="/" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                  Home
+              </Link>            
+            </li>
+            <li className="mr-3 nav__item">
+              <Link href="/#produtos" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                  Produtos
+              </Link>  
+            </li>
+            <li className="mr-3 nav__item">
+              <Link href="/#contato" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
+                  Contato
+              </Link>
+            </li>
           </ul>
         </div>
 

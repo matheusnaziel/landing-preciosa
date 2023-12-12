@@ -55,13 +55,13 @@ export default function Footer() {
           <div className="">
             <div>Siga Nossas Redes Sociais</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
-              <a
+              {/* <a
                 href="https://facebook.com/web3templates"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Facebook</span>
                 <Facebook />
-              </a>
+              </a> */}
               <a
                 href="https://instagram.com/web3templates"
                 target="_blank"
