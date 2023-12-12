@@ -64,7 +64,7 @@ const Product = () => {
                                     <ul class="divide-y divide-gray-200">
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Classificação: </span>
-                                        <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                        <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -73,17 +73,17 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                        <span class="text-gray-600">68,39</span>
+                                        <span class="text-gray-600">20,94</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Calcio: </span>
-                                        <span class="text-gray-600">2,650</span>
+                                        <span class="text-gray-600">2,667</span>
                                         </li>
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Cloreto: </span>
-                                        <span class="text-gray-600">0,82</span>
+                                        <span class="text-gray-600">0,36</span>
                                         </li>
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -91,7 +91,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">pH a 25°: </span>
-                                        <span class="text-gray-600">9,38</span>
+                                        <span class="text-gray-600">6,04</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -157,7 +157,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Classificação: </span>
-                                        <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                        <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -166,17 +166,17 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                        <span class="text-gray-600">68,39</span>
+                                        <span class="text-gray-600">20,94</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Calcio: </span>
-                                        <span class="text-gray-600">2,650</span>
+                                        <span class="text-gray-600">2,667</span>
                                         </li>
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Cloreto: </span>
-                                        <span class="text-gray-600">0,82</span>
+                                        <span class="text-gray-600">0,36</span>
                                         </li>
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -184,7 +184,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">pH a 25°: </span>
-                                        <span class="text-gray-600">9,38</span>
+                                        <span class="text-gray-600">6,04</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -246,7 +246,7 @@ const Product = () => {
                                 <ul class="divide-y divide-gray-200">
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Classificação: </span>
-                                    <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                    <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -255,17 +255,17 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                    <span class="text-gray-600">68,39</span>
+                                    <span class="text-gray-600">20,94</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Calcio: </span>
-                                    <span class="text-gray-600">2,650</span>
+                                    <span class="text-gray-600">2,667</span>
                                     </li>
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Cloreto: </span>
-                                    <span class="text-gray-600">0,82</span>
+                                    <span class="text-gray-600">0,36</span>
                                     </li>
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -273,7 +273,7 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">pH a 25°: </span>
-                                    <span class="text-gray-600">9,38</span>
+                                    <span class="text-gray-600">6,04</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -339,7 +339,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Classificação: </span>
-                                        <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                        <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -348,17 +348,17 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                        <span class="text-gray-600">68,39</span>
+                                        <span class="text-gray-600">20,94</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Calcio: </span>
-                                        <span class="text-gray-600">2,650</span>
+                                        <span class="text-gray-600">2,667</span>
                                         </li>
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Cloreto: </span>
-                                        <span class="text-gray-600">0,82</span>
+                                        <span class="text-gray-600">0,36</span>
                                         </li>
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -366,7 +366,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">pH a 25°: </span>
-                                        <span class="text-gray-600">9,38</span>
+                                        <span class="text-gray-600">6,04</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -432,7 +432,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Classificação: </span>
-                                        <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                        <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -441,17 +441,17 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                        <span class="text-gray-600">68,39</span>
+                                        <span class="text-gray-600">20,94</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Calcio: </span>
-                                        <span class="text-gray-600">2,650</span>
+                                        <span class="text-gray-600">2,667</span>
                                         </li>
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">Cloreto: </span>
-                                        <span class="text-gray-600">0,82</span>
+                                        <span class="text-gray-600">0,36</span>
                                         </li>
                                         <li class="p-4 bg-gray-300">
                                         <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -459,7 +459,7 @@ const Product = () => {
 
                                         <li class="p-4">
                                         <span class="font-bold text-gray-900">pH a 25°: </span>
-                                        <span class="text-gray-600">9,38</span>
+                                        <span class="text-gray-600">6,04</span>
                                         </li>
 
                                         <li class="p-4 bg-gray-300">
@@ -521,7 +521,7 @@ const Product = () => {
                                 <ul class="divide-y divide-gray-200">
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Classificação: </span>
-                                    <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                    <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -530,17 +530,17 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                    <span class="text-gray-600">68,39</span>
+                                    <span class="text-gray-600">20,94</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Calcio: </span>
-                                    <span class="text-gray-600">2,650</span>
+                                    <span class="text-gray-600">2,667</span>
                                     </li>
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Cloreto: </span>
-                                    <span class="text-gray-600">0,82</span>
+                                    <span class="text-gray-600">0,36</span>
                                     </li>
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -548,7 +548,7 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">pH a 25°: </span>
-                                    <span class="text-gray-600">9,38</span>
+                                    <span class="text-gray-600">6,04</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -610,7 +610,7 @@ const Product = () => {
                                 <ul class="divide-y divide-gray-200">
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Classificação: </span>
-                                    <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                    <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -619,17 +619,17 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                    <span class="text-gray-600">68,39</span>
+                                    <span class="text-gray-600">20,94</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Calcio: </span>
-                                    <span class="text-gray-600">2,650</span>
+                                    <span class="text-gray-600">2,667</span>
                                     </li>
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Cloreto: </span>
-                                    <span class="text-gray-600">0,82</span>
+                                    <span class="text-gray-600">0,36</span>
                                     </li>
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -637,7 +637,7 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">pH a 25°: </span>
-                                    <span class="text-gray-600">9,38</span>
+                                    <span class="text-gray-600">6,04</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -699,7 +699,7 @@ const Product = () => {
                                 <ul class="divide-y divide-gray-200">
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Classificação: </span>
-                                    <span class="text-gray-600">Água Mineral Fluoretada, Vanádica, Hipotermal na Fonte</span>
+                                    <span class="text-gray-600">Fonte Campinas: Água mineral fluoretada</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
@@ -708,17 +708,17 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Bicarbonato: </span>
-                                    <span class="text-gray-600">68,39</span>
+                                    <span class="text-gray-600">20,94</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Calcio: </span>
-                                    <span class="text-gray-600">2,650</span>
+                                    <span class="text-gray-600">2,667</span>
                                     </li>
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">Cloreto: </span>
-                                    <span class="text-gray-600">0,82</span>
+                                    <span class="text-gray-600">0,36</span>
                                     </li>
                                     <li class="p-4 bg-gray-300">
                                     <span class="font-bold text-gray-900">Características Físico-Químicas:</span>
@@ -726,7 +726,7 @@ const Product = () => {
 
                                     <li class="p-4">
                                     <span class="font-bold text-gray-900">pH a 25°: </span>
-                                    <span class="text-gray-600">9,38</span>
+                                    <span class="text-gray-600">6,04</span>
                                     </li>
 
                                     <li class="p-4 bg-gray-300">
