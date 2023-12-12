@@ -32,6 +32,8 @@ const Product = () => {
                     alt="Copo Preciosa 200ml"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -118,6 +120,8 @@ const Product = () => {
                     alt="Garrafa Preciosa Diamond 330ml"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -208,6 +212,8 @@ const Product = () => {
                     alt="Garrafa Preciosa Diamond Gaseificada 330ml"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -294,6 +300,8 @@ const Product = () => {
                     alt="Garrafa água preciosa 510ml"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -381,9 +389,11 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="água preciosa gaseificada 500ml"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -471,9 +481,11 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="água preciosa 1.5l"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -557,9 +569,11 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="água preciosa gaseiricada 1.250l"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
@@ -643,9 +657,11 @@ const Product = () => {
                     width="400"
                     height="450"
                     className={"object-cover"}
-                    alt="Hero Illustration"
+                    alt="água preciosa 5l"
                     loading="eager"
                     placeholder="blur"
+                    layout="responsive"
+                    sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
                     />
                 </div>
             </div>
