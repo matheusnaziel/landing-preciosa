@@ -34,6 +34,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -122,6 +123,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -214,6 +216,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -302,6 +305,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -394,6 +398,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -486,6 +491,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -574,6 +580,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
@@ -662,6 +669,7 @@ const Product = () => {
                     placeholder="blur"
                     layout="responsive"
                     sizes="(max-width: 768px) 307px, (max-width: 1024px) 400px, 450px"
+                    quality={75}
                     />
                 </div>
             </div>
