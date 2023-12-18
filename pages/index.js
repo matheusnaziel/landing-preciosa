@@ -23,7 +23,8 @@ const Home = () => {
           content="Distribuidora de Água Preciosa - Rio de Janeiro"
         />
         <link rel="icon" href="/favicon.png" />
-        <Script id="google-tag-manager" strategy="afterInteractive">
+      </Head>
+      <Script id="google-tag-manager" strategy="afterInteractive">
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
@@ -31,8 +32,6 @@ const Home = () => {
           gtag('config', 'AW-11451873008');
         `}
       </Script>
-
-      </Head>
 
       <Navbar />
       <Hero />
