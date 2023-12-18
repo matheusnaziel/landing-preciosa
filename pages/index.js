@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Script from 'next/script';
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 import SectionTitle from "../components/sectionTitle";
@@ -22,6 +23,15 @@ const Home = () => {
           content="Distribuidora de Água Preciosa - Rio de Janeiro"
         />
         <link rel="icon" href="/favicon.png" />
+        <Script id="google-tag-manager" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'AW-11451873008');
+        `}
+      </Script>
+
       </Head>
 
       <Navbar />
