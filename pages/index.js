@@ -17,11 +17,16 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Água Preciosa</title>
-        <meta
-          name="description"
-          content="Distribuidora de Água Preciosa - Rio de Janeiro"
-        />
+        <title>Água Mineral Preciosa - Pureza e Qualidade Natural</title>
+        <meta name="description" content="Descubra a Água Mineral Preciosa, uma fonte de pureza e saúde. Água naturalmente filtrada e rica em minerais essenciais para o seu bem-estar." />
+        <meta name="keywords" content="água mineral, agua mineral, Preciosa, água natural, saúde, bem-estar, hidratação, água rio de janeiro, agua rio de janeiro, água para evento, agua para evento, água para eventos, agua para eventos"/>
+        <meta name="author" content="Distribuidora Preciosa"/>
+        <meta property="og:title" content="Água Mineral Preciosa - Pureza e Qualidade Natural"/>
+        <meta property="og:description" content="Descubra a Água Mineral Preciosa, uma fonte de pureza e saúde. Água naturalmente filtrada e rica em minerais essenciais."/>
+        <meta property="og:image" content="URL_da_Imagem_da_Garrafa_de_Água"/>
+        <meta property="og:url" content="https://distribuidorapreciosa.com.br"/>
+        <meta property="og:type" content="website"/>
+        <link rel="canonical" href="https://distribuidorapreciosa.com.br"/>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Script id="google-tag-manager" strategy="afterInteractive">
