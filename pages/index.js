@@ -15,6 +15,8 @@ import PopupWidget from "../components/popupWidget";
 
 const Home = () => {
   useEffect(() => {
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
     document.querySelectorAll('[id^="botao-whatsapp"]').forEach(button => {
       button.addEventListener('click', function() {
         gtag('event', 'click', {

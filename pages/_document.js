@@ -12,19 +12,14 @@ class MyDocument extends Document {
             src="https://www.googletagmanager.com/gtag/js?id=G-ZZ9C9LWMTE"
           />
           <Script async src="https://www.googletagmanager.com/gtag/js?id=AW-11451873008"></Script>
-          <Script
-            dangerouslySetInnerHTML={{
-              __html: `
-                gtag('event', 'conversion', {'send_to': 'AW-11451873008/aM19CJbpmYEZEPDt1tQq'});
-              `,
-            }}
-          />
           <Script>
             {`
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
+              window.gtag = gtag;
               gtag('js', new Date());
               gtag('config', 'AW-11451873008');
+              gtag('event', 'conversion', {'send_to': 'AW-11451873008/aM19CJbpmYEZEPDt1tQq'});
             `}
           </Script>
           <Script

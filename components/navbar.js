@@ -68,7 +68,7 @@ const Navbar = () => {
                     <Link href="/#contato" className="w-full px-4 py-2 font-semibold -ml-4 text-gray-500 rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
                         Contato
                     </Link>
-                    <Link href="https://wa.me/5521991221552" id="botao-whatsapp-1" className="w-full px-6 py-2 mt-3 text-center text-white bg-blue-600 rounded-md lg:ml-5">         
+                    <Link href="https://wa.me/5521991221552" target="_blank" id="botao-whatsapp-1" className="w-full px-6 py-2 mt-3 text-center text-white bg-blue-600 rounded-md lg:ml-5">         
                         Whatsapp
                     </Link>
                   </>
@@ -100,7 +100,7 @@ const Navbar = () => {
         </div>
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <Link href="https://wa.me/5521991221552" id="botao-whatsapp-3" className="px-6 py-2 text-white bg-blue-600 rounded-md md:ml-5">
+          <Link href="https://wa.me/5521991221552" target="_blank" id="botao-whatsapp-3" className="px-6 py-2 text-white bg-blue-600 rounded-md md:ml-5">
               Whatsapp
           </Link>
 
