@@ -37,6 +37,21 @@ const Home = () => {
           gtag('config', 'AW-11451873008');
         `}
       </Script>
+      <Script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-ZZ9C9LWMTE"
+      ></Script>
+      <Script
+        dangerouslySetInnerHTML={{
+          __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-ZZ9C9LWMTE');
+          `,
+        }}
+      />
 
       <Navbar />
       <Hero />
