@@ -1,5 +1,5 @@
+import { useEffect } from 'react';
 import Head from "next/head";
-import Script from 'next/script';
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 import SectionTitle from "../components/sectionTitle";
@@ -14,6 +14,17 @@ import Faq from "../components/faq";
 import PopupWidget from "../components/popupWidget";
 
 const Home = () => {
+  useEffect(() => {
+    document.querySelectorAll('[id^="botao-whatsapp"]').forEach(button => {
+      button.addEventListener('click', function() {
+        gtag('event', 'click', {
+          'event_category': 'WhatsApp',
+          'event_label': this.id
+        });
+      });
+    });
+  }, []);
+
   return (
     <>
       <Head>
