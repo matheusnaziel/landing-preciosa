@@ -11,12 +11,11 @@ import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Faq from "../components/faq";
+import Script from 'next/script';
 import PopupWidget from "../components/popupWidget";
 
 const Home = () => {
   useEffect(() => {
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
     document.querySelectorAll('[id^="botao-whatsapp"]').forEach(button => {
       button.addEventListener('click', function() {
         gtag('event', 'click', {
@@ -41,10 +40,19 @@ const Home = () => {
         <meta property="og:type" content="website"/>
         <link rel="canonical" href="https://distribuidorapreciosa.com.br"/>
         <link rel="icon" href="/favicon.png" />
-        
       </Head>
-    
-
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-ZZ9C9LWMTE"/>
+      <Script src="https://www.googletagmanager.com/gtag/js?id=AW-11451873008"/>
+      <Script>
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'AW-11451873008');
+          gtag('event', 'conversion', {'send_to': 'AW-11451873008/aM19CJbpmYEZEPDt1tQq'});
+          gtag('config', 'G-ZZ9C9LWMTE');
+        `}
+      </Script>   
       <Navbar />
       <Hero />
       <Product/>
