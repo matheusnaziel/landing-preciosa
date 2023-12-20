@@ -28,8 +28,7 @@ const Home = () => {
         <meta property="og:type" content="website"/>
         <link rel="canonical" href="https://distribuidorapreciosa.com.br"/>
         <link rel="icon" href="/favicon.png" />
-      </Head>
-      <Script
+        <Script
           dangerouslySetInnerHTML={{
             __html: `
               gtag('event', 'conversion', {'send_to': 'AW-11451873008/aM19CJbpmYEZEPDt1tQq'});
@@ -60,6 +59,8 @@ const Home = () => {
           `,
         }}
       />
+      </Head>
+    
 
       <Navbar />
       <Hero />
