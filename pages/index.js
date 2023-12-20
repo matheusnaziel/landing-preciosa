@@ -29,7 +29,15 @@ const Home = () => {
         <link rel="canonical" href="https://distribuidorapreciosa.com.br"/>
         <link rel="icon" href="/favicon.png" />
       </Head>
-      <Script id="google-tag-manager" strategy="afterInteractive">
+      <Script
+          dangerouslySetInnerHTML={{
+            __html: `
+              gtag('event', 'conversion', {'send_to': 'AW-11451873008/aM19CJbpmYEZEPDt1tQq'});
+            `,
+          }}
+        />
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=AW-11451873008"></Script>
+      <Script>
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
