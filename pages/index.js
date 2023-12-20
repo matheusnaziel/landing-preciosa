@@ -28,37 +28,7 @@ const Home = () => {
         <meta property="og:type" content="website"/>
         <link rel="canonical" href="https://distribuidorapreciosa.com.br"/>
         <link rel="icon" href="/favicon.png" />
-        <Script
-          dangerouslySetInnerHTML={{
-            __html: `
-              gtag('event', 'conversion', {'send_to': 'AW-11451873008/aM19CJbpmYEZEPDt1tQq'});
-            `,
-          }}
-        />
-      <Script async src="https://www.googletagmanager.com/gtag/js?id=AW-11451873008"></Script>
-      <Script>
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'AW-11451873008');
-        `}
-      </Script>
-      <Script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=G-ZZ9C9LWMTE"
-      ></Script>
-      <Script
-        dangerouslySetInnerHTML={{
-          __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-ZZ9C9LWMTE');
-          `,
-        }}
-      />
+        
       </Head>
     
 
