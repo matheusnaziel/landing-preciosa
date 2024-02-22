@@ -679,7 +679,7 @@ const Product = () => {
                     Preciosa 5L
                     </h2>
                     <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
-                        Gaseificada enquanto vai para a garrafa, a refrescância já começa ao ouvir o “tsssss”.
+                        Nossa água é embalada para oferecer uma experiência de sabor excepcional. Desfrute do frescor puro em cada gole. Faça parte dessa jornada deliciosa. Beba o futuro!
                     </p>
 
                     <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center">
