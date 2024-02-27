@@ -30,7 +30,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Água Mineral Preciosa - Pureza e Qualidade Natural</title>
+        <title>Água Mineral Preciosa - Não basta ser água, tem que ter qualidade!</title>
         <meta name="description" content="Descubra a Água Mineral Preciosa, uma fonte de pureza e saúde. Água naturalmente filtrada e rica em minerais essenciais para o seu bem-estar." />
         <meta name="keywords" content="água mineral, agua mineral, Preciosa, água natural, saúde, bem-estar, hidratação, água rio de janeiro, agua rio de janeiro, água para evento, agua para evento, água para eventos, agua para eventos"/>
         <meta name="author" content="Distribuidora Preciosa"/>
