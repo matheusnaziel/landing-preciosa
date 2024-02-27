@@ -4,6 +4,7 @@ import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 import SectionTitle from "../components/sectionTitle";
 import Product from "../components/products";
+import ProductsTwo from "../components/productsTwo";
 import { benefitOne, benefitTwo } from "../components/data";
 import Video from "../components/video";
 import Benefits from "../components/benefits";
@@ -55,9 +56,10 @@ const Home = () => {
       </Script>   
       <Navbar />
       <Hero />
+      {/* <Benefits data={benefitOne} /> */}
       <Product/>
-      {/* <Benefits data={benefitOne} />
-      <Benefits imgPos="right" data={benefitTwo} /> */}
+      <ProductsTwo />
+      {/*<Benefits imgPos="right" data={benefitTwo} /> *\}
       {/* <SectionTitle
         pretitle="Watch a video"
         title="Learn how to fullfil your needs">
