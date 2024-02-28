@@ -666,7 +666,7 @@ const ProductsTwo = () => {
                         Pirulito Juquinha Tutti Frutti 500G
                         </h2>
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl dark:text-gray-300">
-                        Delicioso Pirulito Juquinha Tutti Frutti! Com 88g de pura alegria, este pacote é o companheiro perfeito para qualquer festa ou para adoçar o seu dia a dia.
+                        Delicioso Pirulito Juquinha Tutti Frutti! Com 500g de pura alegria, este pacote é o companheiro perfeito para qualquer festa ou para adoçar o seu dia a dia.
                         </p>
 
                         <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center">
